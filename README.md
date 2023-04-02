@@ -12,7 +12,7 @@ AA.PRODUCT.LINE
 IF WE OPEN PRODCUT LINE THROUGH COMMAND WE CAN PUT THIS ON COMMAND LINE AA.PRODUCT.LINE IT WILL SHOW THAT VERSION OR THEN WE CAN OPEN THIS VERSION THROUGH THROUGH ADMIN USER
 THEN PRODUCUCT BUILDER PRODUCT
 
-=======================================  product class   =======================================
+=======================================  product lINE   =======================================
 
 product Line ma product class hoi hai 
 ![image](https://user-images.githubusercontent.com/40827670/229365878-b7f8fd10-534e-4a66-ab35-c93c267abfc5.png)
@@ -41,6 +41,13 @@ MENU SA TO USKO HUM DIRECT VERSION SA USKA RECORD KHOL KA EDIT KAR SAKTA HAI
 ![image](https://user-images.githubusercontent.com/40827670/229367024-917b012c-5f98-4958-9d1a-e1e6d5bf411b.png)
 
 =====================================================================================
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+YA PROPERTIES PA CLICK KARNA PA AYA HAI
+![image](https://user-images.githubusercontent.com/40827670/229367903-79cab0ac-977e-42e0-b97c-c498244cc53c.png)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 ![image](https://user-images.githubusercontent.com/40827670/229352876-a5d02046-96ef-405f-a7cc-b1e38a92db1f.png)
 
 AA.PROPERT.CLASS
