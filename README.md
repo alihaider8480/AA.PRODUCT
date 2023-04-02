@@ -24,15 +24,22 @@ iska andar poperties hoti hai
 
 ![image](https://user-images.githubusercontent.com/40827670/229366088-ccc9d4b3-fd7e-401c-aa11-c43a302a8e97.png)
 
-product group ka data AA.PRODUCT.GROUP,AA KA VERSION MA DEFINE HOTA HAI UPAR JUST ENQ NA HAI OR ISKA ANDAR  properties BHI HOTI HAI 
+product group ka data AA.PRODUCT.GROUP,AA KA VERSION MA DEFINE HOTA HAI UPAR JUST ENQ NA HAI OR ISKA ANDAR  properties BHI HOTI HAI  
+PRODUCT GROUP KA EDIT YA NEW DATA HUM AA.PRODUCT.GROUP,AA MA KARTA HAI.
 ![image](https://user-images.githubusercontent.com/40827670/229366501-b1512f7c-9be1-49e9-8a60-7fb9d183310e.png)
 
 ========================================== products =================================
 
 ![image](https://user-images.githubusercontent.com/40827670/229366181-aca8cf37-34f9-477c-962e-a6fa62679e8c.png)
 
-
 iska andar product condition hoti hai 
+
+PRODUCT AGAR HUM NEW BNANI HO AA KI TO HUM YAHA SA BNAE GA AA.PRODUCT.DESIGNER,AA AGARJO MENU SA JAKA HUM KHOLTA HAI USER
+MENU SA TO USKO HUM DIRECT VERSION SA USKA RECORD KHOL KA EDIT KAR SAKTA HAI
+
+![image](https://user-images.githubusercontent.com/40827670/229367003-a0414ade-15ac-4777-afd5-706fea387da7.png)
+![image](https://user-images.githubusercontent.com/40827670/229367024-917b012c-5f98-4958-9d1a-e1e6d5bf411b.png)
+
 =====================================================================================
 ![image](https://user-images.githubusercontent.com/40827670/229352876-a5d02046-96ef-405f-a7cc-b1e38a92db1f.png)
 
