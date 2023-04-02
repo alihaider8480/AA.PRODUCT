@@ -17,7 +17,7 @@ WE OPEN AA CLASS FROM THIS COMMAND
 ![image](https://user-images.githubusercontent.com/40827670/229353392-dbb43383-3770-488e-ac07-3df1d6f8e37f.png)
 
 
-AA.PRODUCT.GROUP
+AA.PRODUCT.GROUP = ,AA
 ![image](https://user-images.githubusercontent.com/40827670/229353782-f44f49f1-a6c7-40b4-ac70-224b5f2b758a.png)
 
 
